@@ -1,0 +1,7 @@
+__pycache__/
+*.pt
+*.mid
+*.txt
+*.jsonl
+*.log
+.vscode/
